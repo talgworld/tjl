@@ -1,0 +1,20 @@
+{
+  "name": "ball-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "copy-paste": "^1.5.3",
+    "electron": "^28.2.6",
+    "electron-is-dev": "^3.0.1",
+    "electron-rebuild": "^3.2.9",
+    "express": "^4.18.3",
+    "ws": "^8.16.0"
+  }
+}
