@@ -1,1 +1,0 @@
-send "i{Click}{F4}b0"
